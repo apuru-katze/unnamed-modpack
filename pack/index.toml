@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "2d0d21a42f6f7eadff5031b9cbab80da2402a853f7b22853a79c56f8188ab32d"
+hash = "2747b1ea22aabf4d64a5f313a9b0379c5864224600fbf9ffd19a6cc13bf55b8c"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "3eec0c7d51129768897bfd7b581d3c2abad005b01abc2ba530e67f154c619faf"
+hash = "aacc0de30caa97ab0157fcde33114aa21c908b7d7894347957001d0d3e3a8e0b"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
-hash = "f809ef038d1f0f24389fbe581f672ed85b5e4ac6053eb4cf1f9d83b93930068b"
+hash = "0d8ff286f796947a4be5650d7f09457ce812e40bd668b615c5bb3e7ab4134aed"
 metafile = true
 
 [[files]]
@@ -249,12 +249,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "5bfff454ca642cfe6fd04a6272a00391a0f521cc1524a269228ce59df5ba3aac"
+hash = "e6e71c245d3c2d696717bda597c0e987889ced04303b1823829e8e9b0488f4b2"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "a66b258e574fa9926392c2b89ae4b3bedb17a6b506e00789e923118869d99963"
+hash = "8376d45a580d5251887f208f6c4ec4962e089b1660c816f4ede4641a3c80d1bf"
 metafile = true
 
 [[files]]
