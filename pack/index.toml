@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "3b4a39e0decffd395867438a58e546eb215ec7e5702c9a0deab08030c8c3507b"
+hash = "7dd13fd3af9b10bd1780cefce18259411a91342b687d448ce65a93b0e42b79b1"
 metafile = true
 
 [[files]]
