@@ -28,6 +28,10 @@ hash = "7cff0a9a525c7d4b9daba86f95999ceb7633932a41378cc4d4b02d3f6ca3bf8a"
 metafile = true
 
 [[files]]
+file = "kubejs/server_scripts/block_restrictions.js"
+hash = "d789f1b2dbc80fb86aff6765f2f064d77c663d9d0b87a49033aacaaed5cf66e2"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "c71a37f05849d41b3b2a883c55afc4d32de7e05beff02b6f94a833be0c59635c"
 metafile = true
