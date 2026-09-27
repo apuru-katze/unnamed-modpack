@@ -1,3 +1,10 @@
+[schematics]
+	maxTotalSchematicSize = 2560
+	maxSchematicPacketSize = 10240
+
+	[schematics.schematicannon]
+		schematicannonDelay = 5
+
 [trains]
 	maxTrackPlacementLength = 128
 	manualTrainSpeedModifier = 1
