@@ -32,8 +32,8 @@ https://dev.unnamed-modpack.lab.lutfilahdz.com/modpack.zip
 
 ## License
 
-This project is licensed under the **MIT License**.
+Original content in this repository is licensed under the **MIT License**, unless otherwise noted. See [LICENSE](LICENSE) for the full license text.
+
+Third-party mods, libraries, and assets retain their respective licenses and are not covered by this repository's MIT License.
 
 Copyright © 2026 **Lutfilah Dzaky**.
-
-See the [LICENSE](LICENSE) file for the full license text.
