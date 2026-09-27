@@ -19,12 +19,12 @@ hash = "f9c969c12c3aee3af993a8ddb50bb3c5a253b761c2a6e039312b1a473a13270c"
 
 [[files]]
 file = "config/reliable_remover/client-removal-json.pw.toml"
-hash = "cb005760767e5803ca34138aa06a21651c33d27144375e05762def0ef2e971e8"
+hash = "5ed2b938199127e6318dec99920ca8537bcd1c572aab8507d504739313ed5cce"
 metafile = true
 
 [[files]]
 file = "config/reliable_remover/server-removal-json.pw.toml"
-hash = "bdac5287d36e723e9afc55c0055bd09baf67ddab31ccdc788cb04c74935a4f2d"
+hash = "d82d6ab9fa10c99be5fb2d38617bf49f20474aea40f895a56adab56dd1df9110"
 metafile = true
 
 [[files]]
