@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "e6e71c245d3c2d696717bda597c0e987889ced04303b1823829e8e9b0488f4b2"
+hash = "52dfa6a42023fedb210d94520d21dfa4de71ab64cf0cfea1ed2edbd82bcec422"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "8376d45a580d5251887f208f6c4ec4962e089b1660c816f4ede4641a3c80d1bf"
+hash = "3b4a39e0decffd395867438a58e546eb215ec7e5702c9a0deab08030c8c3507b"
 metafile = true
 
 [[files]]
