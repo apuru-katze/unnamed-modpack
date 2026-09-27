@@ -161,6 +161,10 @@ file = "mods/explorify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
