@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "client-servers-dat.pw.toml"
-hash = "435e7119320d87061c68384c527c82b8cf8f26481bf25be4bcd444c5819efd35"
+hash = "74b689eb5ad60947bdeba0ca1d38addd01c629845e632f288a0c964de34f4c7c"
 metafile = true
 
 [[files]]
@@ -19,12 +19,12 @@ hash = "f9c969c12c3aee3af993a8ddb50bb3c5a253b761c2a6e039312b1a473a13270c"
 
 [[files]]
 file = "config/reliable_remover/client-removal-json.pw.toml"
-hash = "5ed2b938199127e6318dec99920ca8537bcd1c572aab8507d504739313ed5cce"
+hash = "75d6105815dcc4373235248e78a517c88bb0ac0e5e01dc98d569c77a2a842a93"
 metafile = true
 
 [[files]]
 file = "config/reliable_remover/server-removal-json.pw.toml"
-hash = "d82d6ab9fa10c99be5fb2d38617bf49f20474aea40f895a56adab56dd1df9110"
+hash = "7cff0a9a525c7d4b9daba86f95999ceb7633932a41378cc4d4b02d3f6ca3bf8a"
 metafile = true
 
 [[files]]
