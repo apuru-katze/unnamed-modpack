@@ -1,5 +1,5 @@
-name = "removal.json (client)"
-filename = "removal.json"
+name = "removals.json (client)"
+filename = "removals.json"
 side = "client"
 
 [download]
