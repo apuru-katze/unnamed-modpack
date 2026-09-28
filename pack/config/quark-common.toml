@@ -1,0 +1,192 @@
+[general]
+	"Enable 'q' Button" = false
+
+[categories]
+	automation = false
+	building = true
+	management = true
+	tools = true
+	tweaks = true
+	world = true
+	mobs = true
+	client = true
+	experimental = true
+	oddities = false
+
+[building]
+	"Celebratory Lamps" = false
+	"Compressed Blocks" = false
+	"Duskbound Blocks" = true
+	"Framed Glass" = true
+	"Glass Item Frame" = true
+	"Gold Bars" = true
+	Grate = false
+	Hedges = true
+	"Hollow Logs" = true
+	"Industrial Palette" = true
+	"Japanese Palette" = true
+	"Leaf Carpet" = true
+	Midori = true
+	"More Brick Types" = true
+	"More Mud Blocks" = true
+	"More Potted Plants" = true
+	"Nether Brick Fence Gate" = true
+	"Rainbow Lamps" = true
+	"Raw Metal Bricks" = true
+	Rope = false
+	"Shear Vines" = true
+	Shingles = true
+	"Soul Sandstone" = true
+	Stools = true
+	"Sturdy Stone" = true
+	Thatch = true
+	"Variant Bookshelves" = true
+	"Variant Chests" = true
+	"Variant Furnaces" = true
+	"Variant Ladders" = true
+	"Vertical Planks" = true
+	"Vertical Slabs" = false
+	"Wooden Posts" = true
+	"More Stone Variants" = true
+
+[management]
+	"Automatic Tool Restock" = false
+	"Easy Transferring" = true
+	"Expanded Item Interactions" = true
+	"Hotbar Changer" = true
+	"Inventory Sorting" = true
+	"Item Sharing" = true
+	"Quick Armor Swapping" = true
+
+[tools]
+	Abacus = false
+	"Ambient Discs" = false
+	"Ancient Tomes" = false
+	"Beacon Redirection" = true
+	"Bottled Cloud" = false
+	"Color Runes" = true
+	"Endermosh Music Disc" = false
+	"Parrot Eggs" = false
+	"Pathfinder Maps" = false
+	Pickarang = false
+	"Seed Pouch" = false
+	"Skull Pikes" = true
+	"Slime In A Bucket" = false
+	"Torch Arrow" = false
+	Trowel = false
+
+[tweaks]
+	"Armed Armor Stands" = true
+	"Automatic Recipe Unlock" = false
+	"Better Elytra Rocket" = false
+	"Campfires Boost Elytra" = false
+	"Compasses Work Everywhere" = false
+	"Coral On Cactus" = true
+	"Diamond Repair" = false
+	"Double Door Opening" = true
+	"Dragon Scales" = false
+	"Dyeable Item Frames" = false
+	Emotes = false
+	"Enhanced Ladders" = true
+	"Glass Shard" = true
+	"Gold Tools Have Fortune" = false
+	"Grab Chickens" = false
+	"Hoe Harvesting" = true
+	"Horses Swim" = true
+	"Improved Sponges" = true
+	"Lock Rotation" = true
+	"Magma Keeps Concrete Powder" = true
+	"Map Washing" = true
+	"More Banner Layers" = true
+	"More Note Block Sounds" = true
+	"More Villagers" = false
+	"No Durability On Cosmetics" = true
+	"Pat The Dogs" = true
+	"Petals On Water" = true
+	"Pig Litters" = false
+	"Poison Potato Usage" = false
+	"Reacharound Placing" = true
+	"Renewable Spore Blossoms" = false
+	"Replace Scaffolding" = true
+	"Safer Creatures" = true
+	"Shulker Packing" = true
+	"Simple Harvest" = false
+	"Slabs To Blocks" = true
+	"Slimes To Magma Cubes" = true
+	"Snow Golem Player Heads" = false
+	"Utility Recipes" = true
+	"Vexes Die With Their Masters" = false
+	"Villagers Follow Emeralds" = true
+	"Zombie Villagers On Normal" = true
+
+[world]
+	"Ancient Wood" = true
+	"Azalea Wood" = true
+	"Big Stone Clusters" = false
+	"Blossom Trees" = true
+	"Cherry Grove Water Petals" = true
+	"Chorus Vegetation" = true
+	Corundum = true
+	"Fairy Rings" = true
+	"Fallen Logs" = true
+	"Glimmering Weald" = true
+	"Monster Box" = false
+	"Nether Obsidian Spikes" = true
+	"New Stone Types" = false
+	"No More Lava Pockets" = false
+	Permafrost = true
+	"Spiral Spires" = true
+
+[mobs]
+	Crabs = false
+	Forgotten = false
+	Foxhound = false
+	Shiba = true
+	Stonelings = false
+	Toretoise = false
+	Wraith = false
+
+[client]
+	"Auto Walk Keybind" = true
+	"Back Button Keybind" = true
+	"Buckets Show Inhabitants" = true
+	Camera = false
+	"Chest Searching" = true
+	"Elytra Indicator" = true
+	"Greener Grass" = false
+	"Improved Tooltips" = true
+	"Long Range Pick Block" = true
+	"Microcrafting Helper" = false
+	"Soul Candles" = true
+	"Usage Ticker" = true
+	"Uses For Curses" = false
+	"Variant Animal Textures" = true
+	"Wool Shuts Up Minecarts" = true
+
+[experimental]
+	"Game Nerfs" = true
+
+	[experimental.game_nerfs]
+		"Nerf Mending" = true
+		"No Nerf for Mending II" = false
+		"Disable Iron Farms" = true
+		"Disable Ice Roads" = false
+		"Disable Wool Drops" = false
+		"Enable Selective Mob Griefing" = true
+		"Enable Dimension Locked Elytra" = true
+		"Disable Falling Block Dupe" = true
+		"Disable Piston Physics Exploits" = true
+		"Disable Mushroom Block Removal" = true
+		"Disable Tripwire Hook Dupe" = true
+		"Village Spawn Nerf" = false
+		"Village Spawn Nerf Distance" = 7000
+		"Non Griefing Entities" = [
+            "minecraft:creeper",
+            "minecraft:ghast",
+            "minecraft:wither",
+            "minecraft:ender_dragon",
+            "minecraft:enderman",
+            "minecraft:ravager",
+            "minecraft:zoglin"
+        ]
+		"Elytra Allowed Dimensions" = ["minecraft:the_end"]

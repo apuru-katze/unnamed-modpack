@@ -11,6 +11,9 @@ file = "config/create-server.toml"
 file = "config/create_connected-common.toml"
 
 [[files]]
+file = "config/quark-common.toml"
+
+[[files]]
 file = "config/railways-server.toml"
 
 [[files]]
