@@ -292,6 +292,18 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/stellarity-lite.pw.toml"
 metafile = true
 
