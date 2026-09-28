@@ -196,6 +196,10 @@ file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
@@ -217,6 +221,10 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
 metafile = true
 
 [[files]]
@@ -321,10 +329,6 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
 metafile = true
 
 [[files]]
