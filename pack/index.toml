@@ -176,6 +176,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 metafile = true
 
