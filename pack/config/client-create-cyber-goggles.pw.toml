@@ -1,0 +1,8 @@
+name = "create_cyber_goggles.toml (client)"
+filename = "create_cyber_goggles.toml"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/create_cyber_goggles.toml"
+hash-format = "sha512"
+hash = "2e1bb5844dcb4d8d1428dbba08533727d4ee49879ee49698d850cf56ba017c32d48ca739f9205aced2a02e2adedde6503529cc9b9b2f6de3a05899132cd4bccb"

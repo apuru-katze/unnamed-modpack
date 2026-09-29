@@ -9,6 +9,10 @@ file = "client-servers-dat.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-create-cyber-goggles.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]
