@@ -144,6 +144,10 @@ file = "mods/ct-overhaul-village.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/discord-chat-connect.pw.toml"
 metafile = true
 
@@ -257,6 +261,10 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
 metafile = true
 
 [[files]]
