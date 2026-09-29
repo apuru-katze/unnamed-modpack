@@ -218,6 +218,10 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
@@ -267,6 +271,10 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
