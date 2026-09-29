@@ -16,7 +16,6 @@
             "minecraft:command_block_minecart",
             "minecraft:debug_stick",
             "electroenergetics:plant_oil_bucket",
-            // remove simply sword weapons
             "simplyswords:runic_forge",
             "simplyswords:runic_tablet",
             "simplyswords:runefused_gem",
