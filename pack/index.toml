@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client-options-txt.pw.toml"
+metafile = true
+
+[[files]]
 file = "client-servers-dat.pw.toml"
 metafile = true
 
