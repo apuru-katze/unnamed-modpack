@@ -134,10 +134,6 @@ file = "mods/create-electro-energetics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-nowheel.pw.toml"
 metafile = true
 
