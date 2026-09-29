@@ -42,6 +42,10 @@ file = "config/sophisticatedcore-common.toml"
 file = "kubejs/server_scripts/block_restrictions.js"
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 metafile = true
 
