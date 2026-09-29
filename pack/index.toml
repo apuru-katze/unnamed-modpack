@@ -48,6 +48,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 metafile = true
 
@@ -180,6 +184,10 @@ file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 metafile = true
 
@@ -280,6 +288,10 @@ file = "mods/rhino.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 metafile = true
 
@@ -293,6 +305,14 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
 metafile = true
 
 [[files]]
@@ -357,6 +377,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
