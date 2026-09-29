@@ -1,1 +1,9 @@
-narrator:0
+enableVsync:false
+gamma:1.0
+onboardAccessibility:true
+guiScale:3
+joinedFirstServer:true
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+maxFps:260
