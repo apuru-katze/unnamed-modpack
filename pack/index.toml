@@ -372,3 +372,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
+metafile = true

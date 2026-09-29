@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/options.txt"
 hash-format = "sha512"
-hash = "62480e5b6941b2baa948a933ec9eb5ecdf3d838025ec580c9595202af29363437e328d085922625989eb046477934746b83a58b783c43e07bc4143c1e7a74997"
+hash = "c6b005a5ef3e3c85dee0ec954bd7b4a23771064007964b91e6eeeb0ea7a345a83579d2fb278065e00882c792d396f39e87ff4d21f3cf7465d1b1cab18e526ebb"
