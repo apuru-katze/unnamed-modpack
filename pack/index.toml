@@ -178,6 +178,10 @@ file = "mods/explorify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 metafile = true
 
