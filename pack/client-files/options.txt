@@ -1,1 +1,10 @@
-narrator:0
+enableVsync:false
+gamma:1.0
+onboardAccessibility:true
+guiScale:3
+joinedFirstServer:true
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+maxFps:260
+resourcePacks:["vanilla","mod_resources","file/Midnighttigger\u0027s Default Connected Textures.zip","file/Fast Better Grass.zip"]

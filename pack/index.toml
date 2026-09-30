@@ -9,6 +9,10 @@ file = "client-servers-dat.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-create-cyber-goggles.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]
@@ -29,7 +33,17 @@ file = "config/reliable_remover/server-removal-json.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+
+[[files]]
 file = "kubejs/server_scripts/block_restrictions.js"
+
+[[files]]
+file = "mods/aero_cam_sync.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -120,10 +134,6 @@ file = "mods/create-electro-energetics.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-nowheel.pw.toml"
 metafile = true
 
@@ -168,11 +178,19 @@ file = "mods/explorify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
@@ -201,6 +219,10 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
 metafile = true
 
 [[files]]
@@ -256,6 +278,10 @@ file = "mods/particle-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 metafile = true
 
@@ -277,6 +303,10 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-quota.pw.toml"
 metafile = true
 
 [[files]]
@@ -361,4 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
 metafile = true
