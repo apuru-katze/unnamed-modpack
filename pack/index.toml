@@ -290,6 +290,14 @@ file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pandalib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 metafile = true
 
@@ -383,6 +391,10 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/treeliable.pw.toml"
 metafile = true
 
 [[files]]
