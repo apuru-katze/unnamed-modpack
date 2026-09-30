@@ -7,26 +7,34 @@ mob-spawning:
     - category: "MONSTER"
       mobcap: 50
       spawn-interval: 4
+      despawn-distance: 128
 
     - category: "CREATURE"
       mobcap: 8
+      spawn-interval: 400
+      despawn-distance: 128
 
     - category: "AMBIENT"
       mobcap: 2
       spawn-interval: 400
+      despawn-distance: 128
 
     - category: "AXOLOTLS"
-      mobcap: 1
+      mobcap: 2
       spawn-interval: 400
+      despawn-distance: 128
 
     - category: "UNDERGROUND_WATER_CREATURE"
-      mobcap: 5
-      spawn-interval: 200
+      mobcap: 2
+      spawn-interval: 400
+      despawn-distance: 128
 
     - category: "WATER_CREATURE"
-      mobcap: 5
-      spawn-interval: 200
+      mobcap: 2
+      spawn-interval: 400
+      despawn-distance: 128
 
     - category: "WATER_AMBIENT"
       mobcap: 10
       spawn-interval: 200
+      despawn-distance: 64
