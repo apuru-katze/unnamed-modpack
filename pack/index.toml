@@ -48,6 +48,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 metafile = true
 
@@ -73,6 +77,10 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
 metafile = true
 
 [[files]]
@@ -128,6 +136,14 @@ file = "mods/create-nowheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-randomize-filters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 metafile = true
 
@@ -137,6 +153,10 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
 metafile = true
 
 [[files]]
@@ -225,6 +245,10 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
 metafile = true
 
 [[files]]
