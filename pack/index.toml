@@ -394,7 +394,7 @@ file = "mods/towns-and-towers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/treeliable.pw.toml"
+file = "mods/treechop.pw.toml"
 metafile = true
 
 [[files]]
