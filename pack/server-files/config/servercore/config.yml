@@ -26,12 +26,12 @@ mob-spawning:
 
     - category: "UNDERGROUND_WATER_CREATURE"
       mobcap: 5
-      spawn-interval: 400
+      spawn-interval: 200
       despawn-distance: 128
 
     - category: "WATER_CREATURE"
       mobcap: 5
-      spawn-interval: 400
+      spawn-interval: 200
       despawn-distance: 128
 
     - category: "WATER_AMBIENT"
