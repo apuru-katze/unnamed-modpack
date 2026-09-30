@@ -1,0 +1,32 @@
+features:
+  prevent-moving-into-unloaded-chunks: true
+  item-merge-radius: 4.5
+
+mob-spawning:
+  categories:
+    - category: "MONSTER"
+      mobcap: 50
+      spawn-interval: 4
+
+    - category: "CREATURE"
+      mobcap: 8
+
+    - category: "AMBIENT"
+      mobcap: 2
+      spawn-interval: 400
+
+    - category: "AXOLOTLS"
+      mobcap: 1
+      spawn-interval: 400
+
+    - category: "UNDERGROUND_WATER_CREATURE"
+      mobcap: 5
+      spawn-interval: 200
+
+    - category: "WATER_CREATURE"
+      mobcap: 5
+      spawn-interval: 200
+
+    - category: "WATER_AMBIENT"
+      mobcap: 10
+      spawn-interval: 200

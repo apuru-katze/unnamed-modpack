@@ -1,0 +1,8 @@
+name = "config.yml (server)"
+filename = "config.yml"
+side = "server"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/servercore/config.yml"
+hash-format = "sha512"
+hash = "b3c0753b120341a12761b37a1757eae4868f3eccf63dae1c79c4d4b618b50193fb53e02ed43774ae1de4068ea5d4ada888f0fd1ee6d379e7134b1328c7e05ac4"
