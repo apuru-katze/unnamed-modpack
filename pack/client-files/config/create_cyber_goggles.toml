@@ -1,0 +1,4 @@
+[goggles]
+[goggles.gameMode]
+	enableInSurvival = false
+	enableInAdventure = false

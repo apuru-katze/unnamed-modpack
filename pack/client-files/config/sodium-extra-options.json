@@ -1,0 +1,7 @@
+{
+  "extra_settings": {
+    "toasts": true,
+    "recipe_toast": false,
+    "tutorial_toast": false
+  }
+}
