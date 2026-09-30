@@ -1,0 +1,8 @@
+name = "optimizations.yml (server)"
+filename = "optimizations.yml"
+side = "server"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/servercore/optimizations.yml"
+hash-format = "sha512"
+hash = "2afde19823d9c43b18060c0a28a536d8a8e1504c6e7855b4690d19f07e85172ff52f58342858659f6f8809ddc5784a08bcb3aafda5d92d1f4a2e7488f0245d4e"
