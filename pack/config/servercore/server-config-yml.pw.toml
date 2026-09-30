@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/servercore/config.yml"
 hash-format = "sha512"
-hash = "b3c0753b120341a12761b37a1757eae4868f3eccf63dae1c79c4d4b618b50193fb53e02ed43774ae1de4068ea5d4ada888f0fd1ee6d379e7134b1328c7e05ac4"
+hash = "20bb9c6bac233c8f9ba6ba01a74452ffd515eecfa1bfaad1eb419a9d12e49a0ae1f512dacc98ae080d98448172f84fb89b15f9830e9a38fbaed2b04793b595a2"
