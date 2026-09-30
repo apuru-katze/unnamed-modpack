@@ -13,6 +13,10 @@ file = "config/client-create-cyber-goggles.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-sodium-extra-options.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]
@@ -30,6 +34,14 @@ metafile = true
 
 [[files]]
 file = "config/reliable_remover/server-removal-json.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/servercore/server-config-yml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/servercore/server-optimizations-yml.pw.toml"
 metafile = true
 
 [[files]]
