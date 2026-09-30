@@ -246,6 +246,10 @@ file = "mods/kubejs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 metafile = true
 
