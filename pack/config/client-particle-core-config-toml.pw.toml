@@ -1,0 +1,8 @@
+name = "particle_core_config.toml (client)"
+filename = "particle_core_config.toml"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/particle_core_config.toml"
+hash-format = "sha512"
+hash = "0375fa4f94cd1121234f9ca39197a5c7d47a53233b96539c7b763d06ea98cb65d9c1993734a95fc4ee4cc1ed5f6f08f4e887db34a2a0326d99f0815480ce98b5"
