@@ -93,6 +93,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 metafile = true
 
@@ -321,6 +325,10 @@ file = "mods/obe.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
@@ -414,6 +422,10 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
 metafile = true
 
 [[files]]
