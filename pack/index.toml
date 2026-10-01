@@ -193,6 +193,10 @@ file = "mods/ct-overhaul-village.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/discord-chat-connect.pw.toml"
 metafile = true
 
