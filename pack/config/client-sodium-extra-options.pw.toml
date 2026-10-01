@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/sodium-extra-options.json"
 hash-format = "sha512"
-hash = "7931267ff3853acab15a4f9599aee75127427d8c8a09f101c315f725b0a2bd188f8228d1d48aadbe6fb6596584a421a6c6d834b114abe2b6d7a06e7f879c46b8"
+hash = "cd27b216bccaf4936780df5d69c9087aae980da98def60e9471704acafbce176cf996e33bd1dce6638bb849698be0c18c9e2389ae8063810965ecd964246da2c"

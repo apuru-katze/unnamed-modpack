@@ -1,7 +1,10 @@
 [
     {
         "action": "remove",
-        "items": "electroenergetics:plant_oil_bucket",
+        "items": [
+            "electroenergetics:plant_oil_bucket",
+            "sophisticatedcore:ender_linker"
+        ],
         "blocks": "lootr:trophy",
         "fluids": "electroenergetics:plant_oil"
     }

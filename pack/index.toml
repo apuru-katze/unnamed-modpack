@@ -9,7 +9,19 @@ file = "client-servers-dat.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-asyncparticles-json.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/client-create-cyber-goggles.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-particle-core-config-toml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-sodium-extra-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -33,6 +45,22 @@ file = "config/reliable_remover/server-removal-json.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/server-ragdoll-corpse-common.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/server-treechop-common-toml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/servercore/server-config-yml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/servercore/server-optimizations-yml.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 
 [[files]]
@@ -40,6 +68,9 @@ file = "config/sophisticatedcore-common.toml"
 
 [[files]]
 file = "kubejs/server_scripts/block_restrictions.js"
+
+[[files]]
+file = "kubejs/server_scripts/contraption_block_restriction.js"
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
@@ -238,6 +269,10 @@ file = "mods/kubejs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 metafile = true
 
@@ -278,6 +313,14 @@ file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pandalib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 metafile = true
 
@@ -311,6 +354,14 @@ metafile = true
 
 [[files]]
 file = "mods/sable-quota.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdoll-corpse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
 metafile = true
 
 [[files]]
@@ -371,6 +422,10 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
 metafile = true
 
 [[files]]
