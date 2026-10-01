@@ -45,6 +45,10 @@ file = "config/reliable_remover/server-removal-json.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/server-ragdoll-corpse-common.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/server-treechop-common-toml.pw.toml"
 metafile = true
 
