@@ -106,6 +106,10 @@ file = "mods/crash-assistant.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 metafile = true
 
@@ -303,10 +307,6 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sable-cleanup.pw.toml"
 metafile = true
 
 [[files]]

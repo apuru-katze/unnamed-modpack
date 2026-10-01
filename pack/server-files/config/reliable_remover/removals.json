@@ -15,7 +15,10 @@
             "minecraft:knowledge_book",
             "minecraft:command_block_minecart",
             "minecraft:debug_stick",
-            "electroenergetics:plant_oil_bucket"
+            "electroenergetics:plant_oil_bucket",
+            "create_aeronautics_toolgun:portable_structure_container",
+            "create_aeronautics_toolgun:magnetic_gun",
+            "create_aeronautics_toolgun:survival_structure_tool"
         ],
         "blocks": [
             "create:creative_motor",
