@@ -1,0 +1,8 @@
+name = "ragdoll_corpse-common.toml (client)"
+filename = "ragdoll_corpse-common.toml"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/ragdoll_corpse-common.toml"
+hash-format = "sha512"
+hash = "8a6dab361128da34466a954809423da632abea21a9656a2ad19dfa15ab7b72e83976740907de45d5ce3a8e5ff26ede2361f84f824caca465e0c2e2dfae73c460"

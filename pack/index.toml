@@ -345,6 +345,10 @@ file = "mods/rhino.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sable-cleanup.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sable-quota.pw.toml"
 metafile = true
 
