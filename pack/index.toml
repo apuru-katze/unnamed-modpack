@@ -141,10 +141,6 @@ file = "mods/crash-assistant.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-automated-logistics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 metafile = true
 
@@ -174,10 +170,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-nowheel.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-simurail.pw.toml"
 metafile = true
 
 [[files]]
