@@ -437,6 +437,10 @@ file = "mods/terralith-biome-saplings.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/terralith-restoned.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 metafile = true
 
