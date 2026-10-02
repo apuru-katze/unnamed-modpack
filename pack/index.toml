@@ -121,6 +121,10 @@ file = "mods/better-village.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 metafile = true
 
@@ -245,6 +249,10 @@ file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 metafile = true
 
@@ -254,6 +262,14 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
 metafile = true
 
 [[files]]
@@ -314,6 +330,10 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
 metafile = true
 
 [[files]]
@@ -446,6 +466,10 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
 metafile = true
 
 [[files]]
