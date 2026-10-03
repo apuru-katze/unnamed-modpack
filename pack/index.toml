@@ -67,6 +67,9 @@ file = "config/sophisticatedbackpacks-server.toml"
 file = "config/sophisticatedcore-common.toml"
 
 [[files]]
+file = "config/tide/tide_server.json"
+
+[[files]]
 file = "kubejs/server_scripts/block_restrictions.js"
 
 [[files]]
