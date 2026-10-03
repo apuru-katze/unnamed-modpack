@@ -1,0 +1,8 @@
+name = "supplementaries-client.toml (client)"
+filename = "supplementaries-client.toml"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/supplementaries-client.toml"
+hash-format = "sha512"
+hash = "f2e3be394c3a34e92bc9d2af090869284bce07da07b73c5a0f57c9602cc8567d182f7ad465e3b83ac3531f8ff77e202791e6891dc227d436c8ca5a3e29abde50"

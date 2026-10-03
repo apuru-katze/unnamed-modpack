@@ -25,6 +25,10 @@ file = "config/client-sodium-extra-options.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-supplementaries-client.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]
