@@ -413,6 +413,10 @@ file = "mods/rhino.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sable-cleanup.pw.toml"
 metafile = true
 
