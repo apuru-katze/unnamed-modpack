@@ -129,6 +129,10 @@ file = "mods/biolith.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 metafile = true
 
@@ -198,6 +202,10 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
 metafile = true
 
 [[files]]
@@ -562,6 +570,10 @@ metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
 metafile = true
 
 [[files]]
