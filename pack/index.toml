@@ -101,6 +101,10 @@ file = "mods/asyncparticles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/backport-copper-age.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 metafile = true
 
