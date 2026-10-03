@@ -1,6 +1,6 @@
 name = "MMR - Moog's Mineshafts Reimagined"
 filename = "MoogsMineshaftsReimagined-universal-1.21-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z25hqseO/versions/JJc7pNHb/MoogsMineshaftsReimagined-universal-1.21-1.1.0.jar"
