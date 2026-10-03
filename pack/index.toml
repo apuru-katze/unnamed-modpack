@@ -317,6 +317,66 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-alpine-whispers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-hearth-timber.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-lilis-lucky-lures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-lilis-pottery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 metafile = true
 
