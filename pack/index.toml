@@ -297,10 +297,6 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hopo-better-mineshaft.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 metafile = true
 
@@ -389,7 +385,15 @@ file = "mods/mezzconfig.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mmr-moogs-mineshafts-reimagined.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
 metafile = true
 
 [[files]]
