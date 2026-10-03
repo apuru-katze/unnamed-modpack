@@ -321,10 +321,6 @@ file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-beachparty.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
 metafile = true
 
