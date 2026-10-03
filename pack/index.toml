@@ -197,6 +197,10 @@ file = "mods/create.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/createlazytick.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 metafile = true
 
