@@ -221,6 +221,10 @@ file = "mods/discord-chat-connect.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/display-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 metafile = true
 
@@ -249,11 +253,19 @@ file = "mods/emi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -393,6 +405,10 @@ file = "mods/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 metafile = true
 
@@ -410,6 +426,10 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
 metafile = true
 
 [[files]]
