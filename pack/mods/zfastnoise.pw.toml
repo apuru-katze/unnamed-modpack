@@ -1,6 +1,6 @@
 name = "Fast Noise"
 filename = "zfastnoise-1.0.13+1.21.1+neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OnlVIpq5/versions/9vSFkDAr/zfastnoise-1.0.13%2B1.21.1%2Bneoforge.jar"
