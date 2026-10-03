@@ -205,6 +205,22 @@ file = "mods/discord-chat-connect.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 metafile = true
 
@@ -334,6 +350,10 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nofun-dnt.pw.toml"
 metafile = true
 
 [[files]]
@@ -498,6 +518,38 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
