@@ -569,6 +569,10 @@ file = "mods/zeta.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 metafile = true
 
