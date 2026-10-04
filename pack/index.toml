@@ -276,6 +276,10 @@ file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 metafile = true
 
