@@ -84,6 +84,10 @@ file = "mods/aero_cam_sync.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/aeroengine.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 metafile = true
 
@@ -233,6 +237,14 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks+.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-western-pump.pw.toml"
 metafile = true
 
 [[files]]
@@ -421,6 +433,10 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lever-drugster.pw.toml"
 metafile = true
 
 [[files]]

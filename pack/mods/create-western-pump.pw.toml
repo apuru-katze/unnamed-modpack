@@ -1,0 +1,13 @@
+name = "Create: Western Pump"
+filename = "westernpump-0.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R5wLkBHg/versions/30e3LZbl/westernpump-0.0.12.jar"
+hash-format = "sha512"
+hash = "b3e11b3e7ebf005acc0bb8671e0c0e242a8f9eb07cebae76c35ccc6c01f6f2f9014055b161390c51edcf5b0be4a0770c401f1e7c7c1e500f69b75b3c70faa827"
+
+[update]
+[update.modrinth]
+mod-id = "R5wLkBHg"
+version = "30e3LZbl"
