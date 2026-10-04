@@ -180,11 +180,23 @@ file = "mods/create-cyber-goggles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
 metafile = true
 
 [[files]]
@@ -197,6 +209,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels.pw.toml"
 metafile = true
 
 [[files]]
