@@ -196,6 +196,14 @@ file = "mods/create-nowheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-randomize-filters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 metafile = true
 
@@ -300,6 +308,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
@@ -396,6 +408,14 @@ file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mech-trowel.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 metafile = true
 
@@ -484,6 +504,10 @@ file = "mods/quark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reliable-emi.pw.toml"
 metafile = true
 
@@ -565,6 +589,14 @@ metafile = true
 
 [[files]]
 file = "mods/stellarity-lite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
