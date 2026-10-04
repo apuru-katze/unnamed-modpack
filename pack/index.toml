@@ -144,6 +144,10 @@ file = "mods/blocks-bogies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cacb.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -172,6 +176,10 @@ file = "mods/create-aeroworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-collision-crashfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 metafile = true
 
@@ -189,6 +197,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-dup-fix.pw.toml"
 metafile = true
 
 [[files]]
@@ -549,6 +561,10 @@ metafile = true
 
 [[files]]
 file = "mods/sable-cleanup.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-fix-mod.pw.toml"
 metafile = true
 
 [[files]]
