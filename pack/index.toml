@@ -344,10 +344,6 @@ file = "mods/figura.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
