@@ -340,6 +340,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 metafile = true
 
