@@ -132,10 +132,6 @@ file = "mods/better-village.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/biolith.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 metafile = true
 
@@ -361,14 +357,6 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hybrid-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hybrid-aquatic.pw.toml"
 metafile = true
 
 [[files]]
