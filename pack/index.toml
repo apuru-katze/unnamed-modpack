@@ -108,6 +108,10 @@ file = "mods/asyncparticles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/backport-copper-age.pw.toml"
 metafile = true
 
@@ -172,6 +176,10 @@ file = "mods/create-aeroworks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-collision-crashfix.pw.toml"
 metafile = true
 
@@ -193,6 +201,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-drill-drain.pw.toml"
 metafile = true
 
 [[files]]
@@ -237,6 +249,10 @@ metafile = true
 
 [[files]]
 file = "mods/createlazytick.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createschematicchecker.pw.toml"
 metafile = true
 
 [[files]]
@@ -617,6 +633,10 @@ metafile = true
 
 [[files]]
 file = "mods/stellarity-lite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
 metafile = true
 
 [[files]]
