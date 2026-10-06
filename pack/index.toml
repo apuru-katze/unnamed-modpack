@@ -71,6 +71,9 @@ file = "config/sophisticatedbackpacks-server.toml"
 file = "config/sophisticatedcore-common.toml"
 
 [[files]]
+file = "config/terralith.json"
+
+[[files]]
 file = "config/tide/tide_server.json"
 
 [[files]]
