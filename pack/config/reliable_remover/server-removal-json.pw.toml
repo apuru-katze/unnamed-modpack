@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/reliable_remover/removals.json"
 hash-format = "sha512"
-hash = "c6091bfad5239c466057bb44a6c6c84dc907917366bf1dde0e3058006545f672fe53aa4d8cf5a8897307363bf3cf6eda2ab06e35d0fc2fc18ded7071c1e54649"
+hash = "7e08d555f1686a4dcd86a102d1f8974cda1ee84a5a25b74aa15b797f85de18c46b54394a523a7a627d11d4b620a280e83a29fcfa8dde8738babd2109063ca7e3"
