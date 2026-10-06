@@ -603,6 +603,10 @@ file = "mods/sable.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sablecat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 metafile = true
 

@@ -1,0 +1,13 @@
+name = "SableCat"
+filename = "sablecat-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qDg9I0Yg/versions/oNElRzWj/sablecat-1.0.1.jar"
+hash-format = "sha512"
+hash = "1bd51a7960d065c1e2af2458e0d3bb77e831c4d99e769713920f3288826278ac85df9e342602490151144b230f6573fb5361771a3e4f52d3a58f67107883ad6e"
+
+[update]
+[update.modrinth]
+mod-id = "qDg9I0Yg"
+version = "oNElRzWj"
