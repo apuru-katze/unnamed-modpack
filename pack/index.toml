@@ -251,7 +251,7 @@ file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-tracks+.pw.toml"
+file = "mods/create-tracks.pw.toml"
 metafile = true
 
 [[files]]
