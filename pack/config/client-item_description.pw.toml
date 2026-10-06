@@ -1,0 +1,8 @@
+name = "item_descriptions.json (client)"
+filename = "item_descriptions.json"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/item_descriptions.json"
+hash-format = "sha512"
+hash = "f5bce7fb39db86d2fa82938b31dd13015e7975128561300f5791aeff615db7b002444339966bc396296fa3c4a78251f45010cae0523ca9326bf4928ffd4216a2"

@@ -17,6 +17,10 @@ file = "config/client-create-cyber-goggles.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-item_description.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/client-particle-core-config-toml.pw.toml"
 metafile = true
 
