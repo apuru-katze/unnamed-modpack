@@ -384,6 +384,10 @@ file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/item-descriptions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 metafile = true
 
