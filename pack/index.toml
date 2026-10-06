@@ -688,10 +688,6 @@ file = "mods/towns-and-towers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/treechop.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/vanillabackport.pw.toml"
 metafile = true
 
