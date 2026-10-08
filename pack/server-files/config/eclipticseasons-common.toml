@@ -1,0 +1,13 @@
+[Crop]
+	EnableCropHumidityControl = true
+	GreenHouseMaxRadius = 24
+	GreenHouseMaxHeight = 6
+
+[Animal]
+	EnableSeasonalBreed = true
+	EnableTimeBreed = true
+	EnableSeasonalBee = true
+	EnableSeasonalFishing = true
+
+[Debug]
+	ForceServerConfig = false
