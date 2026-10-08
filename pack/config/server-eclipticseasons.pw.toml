@@ -1,0 +1,8 @@
+name = "eclipticseasons-common.toml (server)"
+filename = "eclipticseasons-common.toml"
+side = "server"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/eclipticseasons-common.toml"
+hash-format = "sha512"
+hash = "3a1ff5b1482ab8366c65a1c3e40596a30b8d2aaaa6dde8f225e5888e3d00707f21f378e2fb0bcafc6195928ab373327b4af674bae36ce33420a813620e5667f7"
