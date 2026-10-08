@@ -363,6 +363,10 @@ file = "mods/figura.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/foodvariations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
@@ -412,6 +416,10 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -556,6 +564,10 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reds-blahaj-fork.pw.toml"
 metafile = true
 
 [[files]]

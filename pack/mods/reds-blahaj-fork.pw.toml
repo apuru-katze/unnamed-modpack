@@ -1,0 +1,13 @@
+name = "Red's Blåhaj Fork"
+filename = "blahaj-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xC5B7AZB/versions/s90KDlmK/blahaj-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "0d6eccfc11f60a0c5f91e20a1c95df43eb3fc918f864280e19b5803fe6245ec48d97a0842bd2291f7b3815c7556dfe4a381b10ea0c73e81a90a42d99cfc8eeed"
+
+[update]
+[update.modrinth]
+mod-id = "xC5B7AZB"
+version = "s90KDlmK"
