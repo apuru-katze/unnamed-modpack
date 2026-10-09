@@ -1,0 +1,14 @@
+version:3955
+enableVsync:false
+gamma:1.0
+guiScale:3
+resourcePacks:["vanilla","mod_resources","file/Midnighttigger\u0027s Default Connected Textures.zip","file/Fast Better Grass.zip"]
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.unknown
+key_figura.config.action_wheel_button:key.keyboard.unknown

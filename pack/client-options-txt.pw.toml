@@ -1,8 +1,0 @@
-name = "options.txt (client)"
-filename = "options.txt"
-side = "client"
-
-[download]
-url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/options.txt"
-hash-format = "sha512"
-hash = "ac64d555dd189f2a20878b8cb8894e4fd45b9ec85ac1e39d7bf09e317a31ad421d977f46bb027f403788acab2c5767124c704712ffe0806f19086382390bbd99"
