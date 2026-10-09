@@ -1,0 +1,13 @@
+name = "Create More Configs"
+filename = "createmoreconfigs-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hOvdo0cW/versions/P70JM0a0/createmoreconfigs-1.1.0.jar"
+hash-format = "sha512"
+hash = "a8594df48078caa6043165c3097b6d32091d63deb5e0fe3ce35ca79af19f705b26e6ec8170e7c191c0be9069cff8f2006b3ea6b61ced28b6dbd2dd82911607f7"
+
+[update]
+[update.modrinth]
+mod-id = "hOvdo0cW"
+version = "P70JM0a0"

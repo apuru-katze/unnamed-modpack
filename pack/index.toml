@@ -253,6 +253,10 @@ file = "mods/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-more-configs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-nowheel.pw.toml"
 metafile = true
 
