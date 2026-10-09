@@ -1,8 +1,0 @@
-name = "treechop-common.toml (server)"
-filename = "treechop-common.toml"
-side = "server"
-
-[download]
-url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/treechop-common.toml"
-hash-format = "sha512"
-hash = "2e8afc92dd88a332c6e14cdbba85c57d288fc57a972f8310f6bbbee5bf619f9ffdc02bd258efd3cb6c3b558d92ec009200526ab5caa54355069a9d1658652656"

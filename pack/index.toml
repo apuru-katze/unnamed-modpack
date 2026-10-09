@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/client-asyncparticles-json.pw.toml"
+file = "config/asyncparticles/client-asyncparticles-json.pw.toml"
 metafile = true
 
 [[files]]
@@ -54,10 +54,6 @@ metafile = true
 
 [[files]]
 file = "config/server-ragdoll-corpse-common.pw.toml"
-metafile = true
-
-[[files]]
-file = "config/server-treechop-common-toml.pw.toml"
 metafile = true
 
 [[files]]

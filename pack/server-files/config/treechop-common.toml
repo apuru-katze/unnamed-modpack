@@ -1,4 +1,0 @@
-[chopCounting]
-	algorithm = "LOGARITHMIC"
-    [chopCounting.logarithmic]
-    a = 8.0
