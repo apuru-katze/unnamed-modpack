@@ -85,6 +85,20 @@ file = "config/terralith.json"
 file = "config/tide/tide_server.json"
 
 [[files]]
+file = "config/xaero/minimap/client-cfg.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/client-cfg.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+
+[[files]]
 file = "kubejs/server_scripts/block_restrictions.js"
 
 [[files]]

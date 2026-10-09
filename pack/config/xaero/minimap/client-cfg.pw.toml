@@ -1,0 +1,8 @@
+name = "client.cfg (client)"
+filename = "client.cfg"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/xaero/client.cfg"
+hash-format = "sha512"
+hash = "526875049e2254b58c8000deb837ddf3c6568827124b16b71f1a2b511abb305c09c6fb5e21b1998ef70274b634c2e2da28e66be5ee0d7d58cd37c4842fa77885"
