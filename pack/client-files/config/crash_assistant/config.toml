@@ -1,0 +1,12 @@
+[general]
+	help_link = "https://discord.com/invite/MXBycqz"
+	formulation_type = "DISCORD"
+[text]
+	support_name = "LutfilahDz Sekai Discord"
+	support_place = "#server-forum channel"
+	modpack_name = "SEKAI Modpack"
+[modpack_modlist]
+	modpack_creators = ["Lutfilah Dzaky"]
+
+[gui_customisation]
+	modpack_logo_path = "icon.png"

@@ -33,6 +33,9 @@ file = "config/client-supplementaries-client.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/crash_assistant/client-crash_assistant.toml"
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]

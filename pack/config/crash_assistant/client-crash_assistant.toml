@@ -1,0 +1,8 @@
+name = "config.toml (client)"
+filename = "config.toml"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/crash_assistant/config.toml"
+hash-format = "sha512"
+hash = "3149e94f14b10b6d303288745dd0d3393f51dc7708e756cfb517cc2f6fe106a2cf7636b9b6dbc954e05c8df45812b65b73ef15d128edbadbb2a40d2309b18d79"
