@@ -1,0 +1,8 @@
+name = "packicon.png (client)"
+filename = "packicon.png"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/kubejs/config/packicon.png"
+hash-format = "sha512"
+hash = "91d847280250dd844b6329272b40207ab8f40319929884f38eb7a6503367aa30effcb1157ec2bb824cad3dd690c96ea35d6160940e7fdf782c245adb0c0ca10b"

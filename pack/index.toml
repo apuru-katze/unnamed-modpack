@@ -99,6 +99,14 @@ metafile = true
 file = "config/xaero/world-map/server_profiles/default.cfg"
 
 [[files]]
+file = "kubejs/config/client-json.pw.toml"
+metafile = true
+
+[[files]]
+file = "kubejs/config/client-packicon.pw.toml"
+metafile = true
+
+[[files]]
 file = "kubejs/server_scripts/block_restrictions.js"
 
 [[files]]

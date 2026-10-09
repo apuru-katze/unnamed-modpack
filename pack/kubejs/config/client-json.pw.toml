@@ -1,0 +1,8 @@
+name = "client.json (client)"
+filename = "client.json"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/kubejs/config/client.json"
+hash-format = "sha512"
+hash = "46fc14de34f7845fd6d7627544759e98f390489cf1674217a362816ef299db9a70cc70a390144aea5290492b1a2a8d3b1e33513b2ac08456bc10bb10c76223d6"
