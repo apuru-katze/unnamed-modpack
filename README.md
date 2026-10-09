@@ -1,12 +1,9 @@
-> [!WARNING]
-> The pack is stable enough for daily gameplay, but it is still actively evolving. Configuration options, keybinds, and gameplay details may change as the project grows, and some imperfections may remain. Rather than focusing on stability, the goal is to keep refining the experience, so current defaults should be viewed as preferences, not guarantees.
-
 <div align="center">
-  <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" />
+  <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" style="margin-bottom: 32px;" />
 
-![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz-lab/unnamed-modpack/Preview?style=for-the-badge&label=deployment&labelColor=080616&color=B5BAFF)
-![GitHub last commit](https://img.shields.io/github/last-commit/lutfilahdz-lab/unnamed-modpack/dev?style=for-the-badge&labelColor=080616&color=B5BAFF)
-[![Discord invite](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FMXBycqz%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=080616&color=B5BAFF)](https://discord.gg/MXBycqz)
+![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz-lab/unnamed-modpack/Preview?style=for-the-badge&label=deployment&labelColor=441B39&color=FFA0D3)
+![GitHub last commit](https://img.shields.io/github/last-commit/lutfilahdz-lab/unnamed-modpack/dev?style=for-the-badge&labelColor=441B39&color=FFA0D3)
+[![Discord invite](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FMXBycqz%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=441B39&color=FFA0D3)](https://discord.gg/MXBycqz)
 
   <h4>A Minecraft modpack centered on Create: Aeronautics, bringing together engineering, automation, and aviation.</h4>
 
