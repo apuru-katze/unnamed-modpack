@@ -2,8 +2,8 @@
 > The pack is stable enough for daily gameplay, but it is still actively evolving. Configuration options, keybinds, and gameplay details may change as the project grows, and some imperfections may remain. Rather than focusing on stability, the goal is to keep refining the experience, so current defaults should be viewed as preferences, not guarantees.
 
 <div align="center">
-  <img src="./archive/aeroworks.png" alt="Aeroworks Modpack Logo" width="256" />
-  <h1>Aeroworks Modpack</h1>
+  <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" />
+  <h1>SEKAI Modpack</h1>
 
 ![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz-lab/unnamed-modpack/Preview?style=for-the-badge&label=deployment&labelColor=080616&color=B5BAFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lutfilahdz-lab/unnamed-modpack/dev?style=for-the-badge&labelColor=080616&color=B5BAFF)
