@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" style="margin-bottom: 32px;" />
+  <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" />
+  <br><br>
 
 ![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz-lab/unnamed-modpack/Preview?style=for-the-badge&label=deployment&labelColor=441B39&color=FFA0D3)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lutfilahdz-lab/unnamed-modpack/dev?style=for-the-badge&labelColor=441B39&color=FFA0D3)
